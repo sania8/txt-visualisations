@@ -1,6 +1,4 @@
-Here’s a **catchy and well-formatted README.md** for your project, designed to stand out on GitHub or any repository platform. It has **emojis/icons**, clear sections, and highlights your project’s unique features.  
 
----
 
 # 📊 Intelligent Math Visualizer
 
