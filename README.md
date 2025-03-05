@@ -2,7 +2,7 @@ Here’s a **catchy and well-formatted README.md** for your project, designed to
 
 ---
 
-# 📊 SolWise - Intelligent Math Visualizer
+# 📊 Intelligent Math Visualizer
 
 > ✨ A smart AI-powered math assistant that reads word problems, extracts equations using **Gemini 1.5 Flash**, and generates beautiful **interactive plots** using **Plotly**.
 
